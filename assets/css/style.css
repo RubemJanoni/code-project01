@@ -346,6 +346,70 @@ footer i
         left: 0;
     }
 
+    
+}
+
+/* For small sizes from 430px and down*/
+
+@media screen and  (max-width: 430px)
+
+{
+
+    header
+    {
+        flex-direction: column;
+        width: 180px;
+        height: 185px;          
+        left: 0;
+    }    
+        
+
+    #menu
+    {
+        margin: auto;
+    }
+
+    #menu li
+    {    
+        padding: 4px;
+        margin: auto;
+    }
+
+    #menu li a 
+    {
+        font-size: 100%;
+    }
+
+    
+
+    #logo
+    {
+        font-size: 170%;
+    }
+
+    .container-main
+    {
+        max-width: 100%;
+    
+        
+    }
+
+    .container-main-text
+    {
+        
+        width: 100%;
+        padding: 20px;
+        margin-top: 165px;   
+             
+       
+    }
+
+    .container-form
+    {
+        min-width: 250px;
+        margin: auto;        
+    }
+
 }
 
 

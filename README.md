@@ -13,4 +13,14 @@ The other navigation links are to the right: Home, About, Gallery and Contact fo
 
 The navigation links take the user to different sections in an easy and intuitive way.
 
+## The Header
+
 ![menu01](https://user-images.githubusercontent.com/86210555/212197409-6baa5a9f-888c-4c07-902b-97eb3ce6c4c4.jpg)
+
+The header consists of the logo on the left and the navigation links on the right, whitesmoke white colors were used for the logo and navigation links, however when active, the link incorporates the color yellow (#e3c15c).
+
+When hovering the mouse over the navigation links, a border appears in the background, highlighting the element and helping the user navigate.
+
+## The About section
+
+

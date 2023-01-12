@@ -74,6 +74,13 @@ nav a:hover
 
 }
 
+.active a
+{
+    color: #e3c15c;
+    font-weight: bold;
+}
+
+
 
 
 #logo

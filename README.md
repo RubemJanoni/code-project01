@@ -1,2 +1,2 @@
 #Life Yoga Club
-<hr>
+<hr size:1px>

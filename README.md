@@ -105,7 +105,25 @@ No unfixed bugs
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
   
   
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+The live link can be found here - [Life Yoga Club](https://rubemjanoni.github.io/code-project01/)
+
+## Credits
+
+### Content
+
+- The code to make the social media links was taken from the CI [Love Running](https://code-institute-org.github.io/love-running-2.0/index.html) project.
+
+### Media
+
+- The background image was taken from [Pexels](https://www.pexels.com/pt-br/).
+
+- The video in the gallery was taken from Youtube.
+
+- The audio in the Home was taken from [Bensound](https://www.bensound.com/)
+
+
+
+
     
  
     

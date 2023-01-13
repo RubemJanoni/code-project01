@@ -69,9 +69,19 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 - HTML
   - No errors were returned when passing through the official W3C validator.
--CSS
+  
+- CSS
   - No errors were found when passing through the official (Jigsaw) validator.
--ACCESSIBILITY
+
+    <p>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">
+            <img style="border:0;width:88px;height:31px"
+                src="http://jigsaw.w3.org/css-validator/images/vcss"
+                alt="CSS válido!" />
+        </a>
+    </p>
+    
+- ACCESSIBILITY
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
   
   
@@ -82,6 +92,24 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 
     ![lighthouse-validation](https://user-images.githubusercontent.com/86210555/212221921-ecae458d-6a35-4201-b7f5-b2fa0f458778.jpg)
+    
+### Unfixed bugs
+
+No unfixed bugs
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab.
+  - From the source section drop-down menu, select the Master Branch.
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  
+  
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+    
+ 
+    
+    
 
          
 

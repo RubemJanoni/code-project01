@@ -21,6 +21,15 @@ The header consists of the logo on the left and the navigation links on the righ
 
 When hovering the mouse over the navigation links, a border appears in the background, highlighting the element and helping the user navigate.
 
-## The About section
+## The About Section
+
+![about](https://user-images.githubusercontent.com/86210555/212206517-95c6b5bb-d990-40a6-9c67-6ce59bcd1e5d.jpg)
+
+The about section tells a little about the history, the meaning of Yoga, its benefits to health, body and mind.
+It also informs the user, the advantages and benefits after becoming a member of the club.
+
+As background, a transparency was used, but allowing good legibility of the font, at the same time allowing the visualization of the background image.
+
+## The Gallery Section
 
 

@@ -58,6 +58,24 @@ The links will open to a new tab to allow easy navigation for the user.
 
 The footer is valuable to the user as it encourages them to keep connected via social media
 
+## Testing
+
+- I tested that this page works in different browsers: Chrome, Firefox, Safari.
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+- I confirmed that the navigation, header, about, gallery and contact text are all readable and easy to understand.
+- I have confirmed that the form works: requires entries in every field, will only accept an email in the email field and the submit button works.
+
+## Validator Testing
+
+- HTML
+  - No errors were returned when passing through the official W3C validator.
+-CSS
+  - No errors were found when passing through the official (Jigsaw) validator.
+-ACCESSIBILITY
+  - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+
+
+
 
 
 

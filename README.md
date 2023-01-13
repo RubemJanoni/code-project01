@@ -73,9 +73,15 @@ The footer is valuable to the user as it encourages them to keep connected via s
   - No errors were found when passing through the official (Jigsaw) validator.
 -ACCESSIBILITY
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+  
+  
 
 
+         
+     
 
 
+    ![lighthouse-validation](https://user-images.githubusercontent.com/86210555/212221921-ecae458d-6a35-4201-b7f5-b2fa0f458778.jpg)
 
+         
 
